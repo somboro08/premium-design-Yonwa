@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "yonwa",
+      "hasCanvas": false,
+      "bodyTextLen": 1247,
+      "bodyTextHash": "2df55de3161c5a3dd4a1d26312c5707203115b02a3d1e26c67a5061360f4d933",
+      "bodyTextPrefix": "yonwa Le Bénin, vécu. Pas visité. Des ateliers chez l’artisan — ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "yonwa",
+      "hasCanvas": false,
+      "bodyTextLen": 1061,
+      "bodyTextHash": "ceae79e427c48080d0ec2b368df1d12cca339e0ee6bc8a855c179b44f5976130",
+      "bodyTextPrefix": "yonwa Se connecter Sè Façonnez votre premier objet en argile Art",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

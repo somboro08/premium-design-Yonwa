@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/experience/cuisine",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "yonwa",
+      "hasCanvas": false,
+      "bodyTextLen": 1512,
+      "bodyTextHash": "6024e233ee098b3644553b288b87ea4d823dc498463ed964207c57a0c99b45a3",
+      "bodyTextPrefix": "yonwa Le Bénin, vécu. Pas visité. Des ateliers chez l’artisan — ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/detail2.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "yonwa",
+      "hasCanvas": false,
+      "bodyTextLen": 1326,
+      "bodyTextHash": "7f1ef60487b141e823f6679b8c31a9a9043a1dc4d64dd296b20939f8b8b99aa0",
+      "bodyTextPrefix": "Cotonou Atelier de cuisine traditionnelle béninoise Un voyage au",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/detail2-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/detail2.json"
+}
